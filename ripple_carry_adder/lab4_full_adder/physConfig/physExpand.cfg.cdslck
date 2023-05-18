@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yj253
+HostName                       en-ec-ecelinux-04.coecis.cornell.edu
+ProcessIdentifier              63292
+ProcessCreationTime_UTC        1684425547
+ProcessCreationTime_Readable   Thu May 18 11:59:07 2023 EDT
+AppIdentifier                  /opt/cadence/IC618-150/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/yj253/Cadence/ece4740/lab4_full_adder/physConfig/physExpand.cfg
+TimeEditLocked                 Thu May 18 14:04:05 2023 EDT
